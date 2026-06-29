@@ -1,7 +1,7 @@
-# IT-helper-scripts
+# helper-scripts
 
 
-* Useful scripts to help with IT setup if you would like to use them download the repo.
+* Useful scripts to help with setup if you would like to use them download the repo.
 
 
 
